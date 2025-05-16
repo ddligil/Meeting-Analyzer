@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+requests
+openai
+sounddevice
+scipy
+numpy
+pandas
+openpyxl
